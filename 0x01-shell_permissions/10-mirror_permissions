@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod --reference--olleh hellmod u+x 10-mirror_permissions 
